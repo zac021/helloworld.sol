@@ -1,2 +1,2 @@
 # helloworld.sol
-smart contract syntax
+() => {'show wallet address connected to the contract !'}
